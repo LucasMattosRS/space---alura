@@ -37,27 +37,6 @@ https://api.nasa.gov/
 
 Para utilizar a aplicação, é necessário gerar uma API Key gratuita no site da NASA.
 
-⚙️ Como executar o projeto
-
-Siga os passos abaixo para rodar o projeto localmente:
-
-Clone o repositório:
-
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-
-Acesse a pasta do projeto:
-
-cd seu-repositorio
-
-
-Abra o arquivo index.html no navegador
-ou utilize uma extensão como Live Server.
-
-No arquivo JavaScript, insira sua API Key da NASA:
-
-const API_KEY = "SUA_API_KEY_AQUI";
-
 🧠 O que foi praticado neste projeto
 
 Requisições HTTP com fetch
@@ -83,4 +62,5 @@ Boas práticas iniciais de JavaScript
 📌 Observações
 
 As imagens e informações exibidas pertencem à NASA e são disponibilizadas publicamente por meio de sua API oficial.
+
 
